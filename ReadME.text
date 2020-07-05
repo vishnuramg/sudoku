@@ -1,14 +1,13 @@
-This project contains sudoku puzzle to solve.
+This project contains a sudoku puzzle to solve.
 
 This project is developed using Javascript, HTML5, CSS3.
 
-The actual functionality are made using javascript and design part are made using HTML5 and CSS3.
+The actual functionalities are made using javascript and the design part is made using HTML5 and CSS3.
 
-A random number is generated when user refresh the window and the corresponding json file is used to get input for the puzzle. A json file contains 50 different input files.
+A random number is generated when the user refreshes the window and the corresponding JSON file is used to get input for the puzzle. A JSON file contains 50 different input files.
 
-Requirments:
-* When a invalid number is given as an input that particular field should be highlighted to indicate the mistake.
+Requirements:
+* When an invalid number is given as an input that particular field should be highlighted to indicate the mistake.
 * At the same time when changed to correct number the highlight color should go off.
-* The predefined valued cannot be changed.
-* Generate diferent values when user refresh the window.
-
+* The predefined values cannot be changed.
+* Generate different values when user refreshes the window.
